@@ -9,7 +9,7 @@
 [![Colab](https://github.com/CutTheWire/Python_Deep_Learing/blob/main/Colab.png)](https://colab.research.google.com/drive/1uzc6p9z70vtzvwbqFbxqH5arG5JXMkIv?usp=drive_link)
 
 
-- **2024년 3월 18일 업데이트**
+- ### 2024년 3월 18일 업데이트
 
 - ### Pandas.Series
   Pandas의 Series 자료구조를 이해하고 활용하는 방법에 대해 배울 수 있습니다.
