@@ -24,6 +24,7 @@
 2. [*DataFrame columns*](https://colab.research.google.com/drive/1hHhGqN0zIAI6isdldb1gOvD_Xz97Okws#scrollTo=et24NUdMnQoK)
 3. [*DataFrame index*](https://colab.research.google.com/drive/1hHhGqN0zIAI6isdldb1gOvD_Xz97Okws#scrollTo=pMesY2S0unv4)
 
+- ### 2024년 5월 3일 업데이트
 
 - ### machine learning
   가장 간단한 형태의 머신러닝 프로젝트
