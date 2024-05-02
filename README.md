@@ -26,8 +26,8 @@
 
 - ### 2024년 5월 3일 업데이트
 
-  - ### machine learning
-    가장 간단한 형태의 머신러닝 프로젝트
+  - ### machine learning - 일차함수
+    일차함수 관계식으로 가장 간단한 형태의 머신러닝 프로젝트
   1. [데이터 전처리](https://colab.research.google.com/drive/1BgZzBxejLFdE4hhfdwuLj7n_LaPii_Jo#scrollTo=ILUzkMXhleeK)
   2. [모델 학습](https://colab.research.google.com/drive/1BgZzBxejLFdE4hhfdwuLj7n_LaPii_Jo#scrollTo=tkIvCX4RlkxK)
   3. [예측](https://colab.research.google.com/drive/1BgZzBxejLFdE4hhfdwuLj7n_LaPii_Jo#scrollTo=ND8-dwSrsU-Q)
